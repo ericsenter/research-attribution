@@ -25,6 +25,3 @@ The primary focus of this research period was the infrastructure mapping of **Em
 ### Platform Verification & Beta Participation
 * **Hatching Triage:** Beta tester and contributor.
 * **ANY.RUN:** Interactive malware analysis contributor.
-
-### Contact
-For verification of identity regarding these contributions or for professional inquiries, please refer to my [LinkedIn Profile](https://www.linkedin.com/in/ericsenter/) (or insert other verified professional link).
